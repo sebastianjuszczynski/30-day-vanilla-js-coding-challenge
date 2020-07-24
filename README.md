@@ -2,7 +2,7 @@
 ## Demo:
 ![Demo](demo/demo.gif)
 ## Live:
-https://sebastianjuszczynski.github.io/30-day-vanilla-js-coding-challenge---day-1/
+https://sebastianjuszczynski.github.io/30-day-vanilla-js-coding-challenge/day1
 ## Technologies
 - HTML
 - CSS
