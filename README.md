@@ -1,4 +1,4 @@
-# 30-Days-Vanilla-JS-Coding-Challenge---Day-1 - Drum Kit
+# Drum Kit
 ## Demo:
 ![Demo](demo/demo.gif)
 ## Live:
